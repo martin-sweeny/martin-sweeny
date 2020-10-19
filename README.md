@@ -1,4 +1,4 @@
-# Yo
+# Yo 👋
 
 #### Some of the tools I like:
 
