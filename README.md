@@ -1,8 +1,4 @@
-## Hi there 👋
-
-I like noodles, biking and death metal. Oh, and software. 
-
-
+# Yo
 
 #### Some of the tools I like:
 
