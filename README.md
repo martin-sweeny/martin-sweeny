@@ -22,4 +22,6 @@
 
 [![My StackExchange](https://stackexchange.com/users/flair/990072.png)](https://stackoverflow.com/users/1007638/martin?tab=profile)
 
+---
+
 ⚠️ I don't keep most of my projects on Github; most of my projects are on a self-hosted Gitlab instance, though I do mirror some here.
