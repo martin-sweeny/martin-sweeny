@@ -24,4 +24,4 @@
 
 ---
 
-⚠️ I don't keep most of my projects on Github; most of my projects are on a self-hosted Gitlab instance, though I do mirror some here.
+⚠️ I don't keep most of my projects on Github; most of my projects are on a [self-hosted Gitlab](https://git.appserver.wiseweb.dev) instance, though I do mirror some here.
