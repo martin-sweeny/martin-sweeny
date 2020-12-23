@@ -20,7 +20,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=martin-sweeny&title_color=c9d1d9&text_color=c9d1d9&link_color=58a6ff&bg_color=0d1117&hide_border=true&count_private=true&show_icons=true)
 
-[![@martin_sweeny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=martin_sweeny&title_color=c9d1d9&text_color=c9d1d9&link_color=58a6ff&bg_color=0d1117&hide_border=true&laout=compact)](https://wakatime.com/@martin_sweeny)
+[![@martin_sweeny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=martin_sweeny&title_color=c9d1d9&text_color=c9d1d9&link_color=58a6ff&bg_color=0d1117&hide_border=true&layout=compact)](https://wakatime.com/@martin_sweeny)
 
 [![My StackExchange](https://stackexchange.com/users/flair/990072.png)](https://stackoverflow.com/users/1007638/martin?tab=profile)
 
