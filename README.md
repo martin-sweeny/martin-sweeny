@@ -1,5 +1,7 @@
 # Yo 👋
 
+> This page looks best when using [Github's dark mode](https://twitter.com/github/status/1336362679506784256)
+
 #### Some of the tools I like:
 
 ![](http://img.shields.io/badge/-Arch%20Linux-informational?style=for-the-badge&logo=arch-linux&logoColor=white)
