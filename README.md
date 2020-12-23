@@ -18,7 +18,7 @@
 
 #### Shameless self-promo:
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=martin-sweeny&title_color=c9d1d9&text_color=c9d1d9&link_color=58a6ff&bg_color=0d1117&hide_border=true&count_private=true&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=martin-sweeny&title_color=c9d1d9&text_color=c9d1d9&link_color=58a6ff&bg_color=0d1117&hide_border=true&count_private=true&show_icons=true&include_all_commits=true)
 
 [![@martin_sweeny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=martin_sweeny&title_color=c9d1d9&text_color=c9d1d9&link_color=58a6ff&bg_color=0d1117&hide_border=true&layout=compact)](https://wakatime.com/@martin_sweeny)
 
