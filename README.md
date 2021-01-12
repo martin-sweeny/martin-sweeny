@@ -17,6 +17,11 @@
 [![](http://img.shields.io/badge/-Keybase-informational?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/martinsweeny)
 [![](http://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martinsweeny)
 [![](http://img.shields.io/badge/-Email-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martin@wiseweb.dev)
+---
+
+⚠️ I don't keep most of my projects on Github; most of my projects are on a [self-hosted Gitlab](https://git.appserver.wiseweb.dev) instance, though I do mirror some here.
+
+---
 
 #### Stats:
 
@@ -26,6 +31,3 @@
 
 [![My StackExchange](https://stackexchange.com/users/flair/990072.png?theme=dark)](https://stackoverflow.com/users/1007638/martin?tab=profile)
 
----
-
-⚠️ I don't keep most of my projects on Github; most of my projects are on a [self-hosted Gitlab](https://git.appserver.wiseweb.dev) instance, though I do mirror some here.
