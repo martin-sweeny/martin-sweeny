@@ -18,9 +18,9 @@
 [![](http://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martinsweeny)
 [![](http://img.shields.io/badge/-Email-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martin@wiseweb.dev)
 
-#### Shameless self-promo:
+#### Stats:
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=martin-sweeny&title_color=c9d1d9&text_color=c9d1d9&link_color=58a6ff&bg_color=0d1117&hide_border=true&count_private=true&show_icons=true&include_all_commits=true)
+![Metrics](https://metrics.lecoq.io/martin-sweeny?template=classic&pagespeed=1&followup=1&isocalendar=1&languages=1&stars=1&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&stars.limit=4&config.timezone=America%2FMontreal)
 
 [![@martin_sweeny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=martin_sweeny&title_color=c9d1d9&text_color=c9d1d9&link_color=58a6ff&bg_color=0d1117&hide_border=true&layout=compact)](https://wakatime.com/@martin_sweeny)
 
