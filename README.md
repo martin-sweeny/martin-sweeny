@@ -1,5 +1,7 @@
 [<img src="https://img.shields.io/badge/martin.sweeny%40tuta.io-840010?style=for-the-badge&logo=tutanota"/>
-](mailto:martin.sweeny@tuta.io)[<img src="https://img.shields.io/badge/-C136%209C05%201DC1%20240D-0093DD?logo=gnu-privacy-guard&style=for-the-badge" />](https://keyoxide.org/hkp/martin.sweeny@tuta.io)
+](mailto:martin.sweeny@tuta.io)
+[<img src="https://img.shields.io/badge/C136%209C05%201DC1%20240D-0093DD?logo=gnu-privacy-guard&style=for-the-badge" />](https://keyoxide.org/hkp/martin.sweeny@tuta.io)
+[<img src="https://img.shields.io/badge/%40xyhhx-3088D4?logo=mastodon&style=for-the-badge" />](https://fosstodon.org/@xyhhx)
 ---
 
 <p>
