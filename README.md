@@ -9,9 +9,9 @@
         <a target="_blank" href="https://fosstodon.org/@xyhhx"><img height="32" src="https://img.shields.io/badge/%40xyhhx-3088D4?logo=mastodon&style=for-the-badge&logoColor=white" /></a>
         <a target="_blank" href="https://matrix.to/#/@xyhhx:nitro.chat"><img height="32" src="https://img.shields.io/badge/%40xyhhx%3Anitro.chat-000000?logo=matrix&style=for-the-badge" /></a>
         <br />
-        <img src="https://img.shields.io/badge/gitlab.com-gray?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=white"/>
-        <img src="https://img.shields.io/badge/Codeberg-gray?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=2185D0"/>
-        <img src="https://img.shields.io/badge/My%20Gitea-gray?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAYAAACGVs+MAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFESURBVHgB5ZZhccMwDIUVIwgEQwgEQyiDBcIgDMIYZEWwDEHKIGVgCB0Dzb7bj93a96T4uvW6fX9y5/hJ8nOik4gTVZ2U0wNdJppVvJTNJxJoBppBOY/BmXxXHj3ZMoP1UTizOAuYyClORJeJbvEm75UzAV0ydGPd57mCnfH+Daw/COcgHqpV5BSZ6LJewf6oP2h/xbqCZLzfg/Wb2+/uGYEEicIdOABda884CzQqZwC6iWiqM723gFU32q8NPSOAQLE8BsGgf7+1Z5wV8GScJALdq250DRWQSaAVaJp6RrgQqFofBYP+/SScvXhQe/CIQLfoL9i/AE2T/ZXwLVCSO7V/c89ABWS9vv3PLGf4EihJm/1W83kRD/pXx24rb/gMdPOxm/Xw+x67LeoV/OOxu9AZVr13XTdfSF4/WObcseiO4uADA3xcksc28xEAAAAASUVORK5CYII=&labelColor=bf3331"/>
+        <a target="_blank" href="https://gitea.a.wiseweb.dev"><img src="https://img.shields.io/badge/My%20Gitea-gray?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAYAAACGVs+MAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFESURBVHgB5ZZhccMwDIUVIwgEQwgEQyiDBcIgDMIYZEWwDEHKIGVgCB0Dzb7bj93a96T4uvW6fX9y5/hJ8nOik4gTVZ2U0wNdJppVvJTNJxJoBppBOY/BmXxXHj3ZMoP1UTizOAuYyClORJeJbvEm75UzAV0ydGPd57mCnfH+Daw/COcgHqpV5BSZ6LJewf6oP2h/xbqCZLzfg/Wb2+/uGYEEicIdOABda884CzQqZwC6iWiqM723gFU32q8NPSOAQLE8BsGgf7+1Z5wV8GScJALdq250DRWQSaAVaJp6RrgQqFofBYP+/SScvXhQe/CIQLfoL9i/AE2T/ZXwLVCSO7V/c89ABWS9vv3PLGf4EihJm/1W83kRD/pXx24rb/gMdPOxm/Xw+x67LeoV/OOxu9AZVr13XTdfSF4/WObcseiO4uADA3xcksc28xEAAAAASUVORK5CYII=&labelColor=bf3331"/></a>
+        <a target="_blank" href="https://gitlab.com/martin.sweeny"><img src="https://img.shields.io/badge/gitlab.com-gray?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=white"/></a>
+        <a target="_blank" href="https://codeberg.org/martin.sweeny"><img src="https://img.shields.io/badge/Codeberg-gray?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=2185D0"/></a>
     </p>
 </h1>
 <p align="center">
