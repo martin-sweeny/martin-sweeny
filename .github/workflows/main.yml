@@ -2,10 +2,10 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{ cron: "0 * * * *" }]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: { branches: ["master", "main"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -42,4 +42,7 @@ jobs:
           plugin_people_limit: 28
           plugin_people_size: 28
           plugin_people_types: followers, following
-
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: mastered
+          plugin_topics_sort: stars
