@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <a href="https://github.com/martin-sweeny"><img src="https://user-images.githubusercontent.com/3329959/118398543-1a878180-b627-11eb-8b5a-bfd5fe6a1a66.png" alt="martin sweeny" /></a>
+    <a href="https://github.com/martin-sweeny"><img src="https://user-images.githubusercontent.com/3329959/118398625-7520dd80-b627-11eb-8561-a0e81b3d0012.png" alt="martin sweeny" /></a>
     <br />
     <br />
     <p align="center">
