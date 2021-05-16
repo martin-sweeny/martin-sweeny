@@ -42,5 +42,5 @@
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/3329959/118390742-b0f37d00-b5fe-11eb-95d7-7b7852fddd33.png" />
+    <img src="https://user-images.githubusercontent.com/3329959/118396711-b5c82900-b61e-11eb-8cec-e60e7717a3e0.png" />
 </p>
