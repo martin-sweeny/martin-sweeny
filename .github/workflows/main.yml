@@ -71,4 +71,4 @@ jobs:
           plugin_stackoverflow: yes
           plugin_stackoverflow_sections: ""
           plugin_stackoverflow_user: 1007638
-        repositories_forks:
+          repositories_forks: yes
