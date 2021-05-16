@@ -27,8 +27,8 @@
 ---
 
 <p align="center">
-    <img width="400" src="https://github.com/martin-sweeny/martin-sweeny/raw/main/metrics.left.svg" />
-    <img width="400" src="https://github.com/martin-sweeny/martin-sweeny/raw/main/metrics.right.svg" />
+    [<img width="400" src="https://github.com/martin-sweeny/martin-sweeny/raw/main/metrics.left.svg" />](https://github.com/lowlighter/metrics.git)
+    [<img width="400" src="https://github.com/martin-sweeny/martin-sweeny/raw/main/metrics.right.svg" />](https://github.com/lowlighter/metrics.git)
 </p>
 
 <p align="center">
