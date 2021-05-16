@@ -39,8 +39,8 @@
 ---
 
 <p align="center">
-    <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="59%" src="https://github.com/martin-sweeny/martin-sweeny/raw/main/metrics.left.svg" /></a>
-    <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="40%" src="https://github.com/martin-sweeny/martin-sweeny/raw/main/metrics.right.svg" /></a>
+    <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" src="https://github.com/martin-sweeny/martin-sweeny/raw/main/metrics.left.svg" /></a>
+    <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" src="https://github.com/martin-sweeny/martin-sweeny/raw/main/metrics.right.svg" /></a>
 </p>
 
 <p align="center">
