@@ -16,6 +16,7 @@
 <p align="center">
     Tech stuff I like:
     <br />
+    <br />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby"/>
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
