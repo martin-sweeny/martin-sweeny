@@ -27,7 +27,8 @@
 ---
 
 <p align="center">
-    <img src="https://metrics.lecoq.io/martin-sweeny?template=classic&repositories.forks=true&languages=1&habits=1&topics=1&reactions=1&followup=1&lines=1&traffic=1&stargazers=1&people=1&achievements=1&notable=1&stackoverflow=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&topics.mode=mastered&topics.sort=stars&topics.limit=15&reactions.limit=200&reactions.days=0&reactions.display=absolute&reactions.ignored=github-actions%5Bbot%5D%2C%20dependabot%5Bbot%5D&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.limit=5&notable.repositories=false&stackoverflow.user=1007638&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=2&stackoverflow.lines.snippet=0&config.timezone=America%2FMontreal" />
+    <img src="https://github.com/martin-sweeny/martin-sweeny/raw/main/metrics.left.svg" />
+    <img src="https://github.com/martin-sweeny/martin-sweeny/raw/main/metrics.right.svg" />
     <br/>
     <img src="https://user-images.githubusercontent.com/3329959/118390738-b0f37d00-b5fe-11eb-95d7-7b7852fddd33.png" />
 </p>
