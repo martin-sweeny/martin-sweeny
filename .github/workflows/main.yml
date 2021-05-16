@@ -54,7 +54,6 @@ jobs:
           template: classic
           base: ""
           config_timezone: America/Montreal
-          if: ${{ success() || failure() }}
           filename: metrics.right.svg
 
           plugin_achievements: yes
