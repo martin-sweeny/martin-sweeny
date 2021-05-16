@@ -69,9 +69,6 @@ jobs:
           plugin_reactions_ignored: github-actions[bot], dependabot[bot]
           plugin_reactions_limit: 200
           plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 2
-          plugin_stackoverflow_lines.snippet: 0
-          plugin_stackoverflow_lines: 2
-          plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_sections: ""
           plugin_stackoverflow_user: 1007638
           repositories_forks: yes
