@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Drone-212121?style=for-the-badge&logo=drone&logoColor=white"/>
     <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
     <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white"/>
-    <img src="https://img.shields.io/badge/data:image/png;base64,-0DBD8B?style=for-the-badge&logo=element&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white"/>
     <img src="https://img.shields.io/badge/KeepassXC-6CAC4D?style=for-the-badge&logo=keepassxc&logoColor=white"/>
     <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white"/>
 </p>
