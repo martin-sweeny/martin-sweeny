@@ -1414,7 +1414,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Use spaces for indents</li>
-                        <li>Mostly push code around 13:00</li>
+                        <li>Mostly push code around 19:00</li>
                         <li>Mostly active on sunday</li>
                     </ul>
                 </div>
@@ -1436,7 +1436,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone America/Montreal</span>
-                <span>Last updated Sun, 30 May 2021 12:42:13 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Sun, 30 May 2021 14:06:40 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
