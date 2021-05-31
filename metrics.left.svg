@@ -1482,7 +1482,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Mostly pushes code around 19:00</li>
-                        <li>Mostly active on Monday</li>
+                        <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
             </section>
@@ -1503,7 +1503,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Mon, 31 May 2021 19:38:38 (timezone America/Montreal) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 31 May 2021 21:08:04 (timezone America/Montreal) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
