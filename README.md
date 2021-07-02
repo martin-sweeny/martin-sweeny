@@ -50,3 +50,7 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/3329959/118396711-b5c82900-b61e-11eb-8cec-e60e7717a3e0.png" />
 </p>
+
+---
+
+Photo in my profile pic by [Dan Cretu](https://dancretu.tumblr.com/)
