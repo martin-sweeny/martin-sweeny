@@ -15,7 +15,7 @@
     </p>
 </h1>
 <p align="center">
-    Tech stuff I like:
+    Tech stuff I like or often play with:
     <br />
     <br />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -53,4 +53,5 @@
 
 ---
 
+Metrics visualization and bottom illustration by [lowlighter](https://github.com/lowlighter)
 Photo in my profile pic by [Dan Cretu](https://dancretu.tumblr.com/)
