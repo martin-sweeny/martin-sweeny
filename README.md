@@ -53,5 +53,5 @@
 
 ---
 
-Metrics visualization and bottom illustration by [lowlighter](https://github.com/lowlighter)
+Metrics visualization and bottom illustration by [lowlighter](https://github.com/lowlighter) <br/>
 Photo in my profile pic by [Dan Cretu](https://dancretu.tumblr.com/)
